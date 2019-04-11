@@ -16,9 +16,18 @@ For any further questions email: d.mcarthur@lse.ac.uk
 
 */
 
+* set directory
+
+/*
+CHANGE TO OWN FILE PATH
+*/
+
+ cd "C:\Users\danmc\Dropbox\Recession and media\Poverty in the media and recessions\rhetoric-recessions-master"
+/// CHANGE TO OWN FILE PATH
 
 **** Import raw data (rhetoric.csv)
  
+import delimited using "rhetoric"
 
 **** Create variables
 
